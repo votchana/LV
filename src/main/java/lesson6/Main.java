@@ -25,6 +25,8 @@ public class Main {
         result = Calculator.calculate(8,45, null);
         logger.info("result: "+ result);
 
+        System.out.println("This change just to be visibla in git" + result);
+
 
     }
 }

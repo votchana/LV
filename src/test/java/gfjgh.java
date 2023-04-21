@@ -5,4 +5,8 @@ public class gfjgh {
     public void loginTest(){
 
     }
+
+    public void change(){
+        return;
+    }
 }
